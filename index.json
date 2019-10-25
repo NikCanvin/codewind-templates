@@ -4,7 +4,7 @@
   "description":"Cloud-ready Node.js version10 Express sample application",
   "language":"nodejs",
   "projectType":"nodejs",
-  "location":"https://github.com/NikCanvin/codewind-templates/nodeExpressTemplate",
+  "location":"https://github.com/NikCanvin/node10ExpressTemplate",
   "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
 }
 ,{
