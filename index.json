@@ -1,0 +1,18 @@
+[
+{
+  "displayName":"Node.js10 Express",
+  "description":"Cloud-ready Node.js version10 Express sample application",
+  "language":"nodejs",
+  "projectType":"nodejs",
+  "location":"https://github.com/NikCanvin/codewind-templates/nodeExpressTemplate",
+  "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Node.js12 Express",
+  "description":"Cloud-ready Node.js version12 Express sample application",
+  "language":"nodejs",
+  "projectType":"nodejs",
+  "location":"https://github.com/NikCanvin/codewind-templates/nodeExpressTemplate",
+  "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
+}
+]
